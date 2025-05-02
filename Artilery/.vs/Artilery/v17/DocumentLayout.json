@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProjects\\Artilery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|d:\\unityprojects\\artilery\\assets\\scripts\\artilery\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\artilery\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|D:\\UnityProjects\\Artilery\\assets\\scripts\\artilery\\artilerytrajectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\artilery\\artilerytrajectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|D:\\UnityProjects\\Artilery\\assets\\scripts\\tank\\tankdestroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tank\\tankdestroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|D:\\UnityProjects\\Artilery\\assets\\scripts\\tank\\tankshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tank\\tankshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|D:\\UnityProjects\\Artilery\\assets\\scripts\\tank\\tankmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tank\\tankmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|D:\\UnityProjects\\Artilery\\assets\\scripts\\fonemusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fonemusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProjects\\Artilery\\Library\\PackageCache\\com.unity.splines\\Runtime\\SplineContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.splines\\Runtime\\SplineContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|D:\\UnityProjects\\Artilery\\assets\\scripts\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|D:\\UnityProjects\\Artilery\\assets\\scripts\\defaultoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\defaultoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|D:\\UnityProjects\\Artilery\\assets\\scripts\\tank\\tankspawning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tank\\tankspawning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|D:\\UnityProjects\\Artilery\\assets\\scripts\\artilery\\mobile_artilerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\artilery\\mobile_artilerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProjects\\Artilery\\Assets\\TankDestroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TankDestroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|D:\\UnityProjects\\Artilery\\assets\\scripts\\initialisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\initialisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|D:\\UnityProjects\\Artilery\\assets\\scripts\\artilery\\artileryanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\artilery\\artileryanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|D:\\UnityProjects\\Artilery\\assets\\scripts\\artilery\\projectilemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\artilery\\projectilemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|D:\\UnityProjects\\Artilery\\assets\\scripts\\artilery\\fireeffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\artilery\\fireeffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|D:\\UnityProjects\\Artilery\\assets\\scripts\\devicedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\devicedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|D:\\UnityProjects\\Artilery\\assets\\scripts\\artilery\\pc_artilerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\artilery\\pc_artilerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|D:\\UnityProjects\\Artilery\\assets\\scripts\\artilery\\artileryrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\artilery\\artileryrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|D:\\UnityProjects\\Artilery\\assets\\scripts\\artilery\\interfaces\\iartilerycontrolable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FE97E3-E13E-74EC-C812-BFC6FE67B9A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\artilery\\interfaces\\iartilerycontrolable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SplineContainer.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Artilery\\Library\\PackageCache\\com.unity.splines\\Runtime\\SplineContainer.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.splines\\Runtime\\SplineContainer.cs",
+              "ToolTip": "D:\\UnityProjects\\Artilery\\Library\\PackageCache\\com.unity.splines\\Runtime\\SplineContainer.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.splines\\Runtime\\SplineContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:37:30.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FoneMusic.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\FoneMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FoneMusic.cs",
+              "ToolTip": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\FoneMusic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FoneMusic.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:25:45.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TankShooting.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Tank\\TankShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tank\\TankShooting.cs",
+              "ToolTip": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Tank\\TankShooting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tank\\TankShooting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:22:46.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TankDestroyer.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Tank\\TankDestroyer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tank\\TankDestroyer.cs",
+              "ToolTip": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Tank\\TankDestroyer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tank\\TankDestroyer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:06:00.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TankMovement.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Tank\\TankMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tank\\TankMovement.cs",
+              "ToolTip": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Tank\\TankMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tank\\TankMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:37:53.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Initialisation.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Initialisation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Initialisation.cs",
+              "ToolTip": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Initialisation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Initialisation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:37:56.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArtileryTrajectory.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Artilery\\ArtileryTrajectory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Artilery\\ArtileryTrajectory.cs",
+              "ToolTip": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Artilery\\ArtileryTrajectory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Artilery\\ArtileryTrajectory.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAwGAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:09:04.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Artilery\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Artilery\\Projectile.cs",
+              "ToolTip": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Artilery\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Artilery\\Projectile.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwFoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:44:47.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraShake.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\CameraShake.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraShake.cs",
+              "ToolTip": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\CameraShake.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraShake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:24:37.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TankSpawning.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Tank\\TankSpawning.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tank\\TankSpawning.cs",
+              "ToolTip": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Tank\\TankSpawning.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tank\\TankSpawning.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:30:13.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DefaultOperations.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\DefaultOperations.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DefaultOperations.cs",
+              "ToolTip": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\DefaultOperations.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DefaultOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:16:47.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mobile_ArtileryController.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Artilery\\Mobile_ArtileryController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Artilery\\Mobile_ArtileryController.cs",
+              "ToolTip": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Artilery\\Mobile_ArtileryController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Artilery\\Mobile_ArtileryController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:37:02.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TankDestroyer.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Artilery\\Assets\\TankDestroyer.cs",
+              "RelativeDocumentMoniker": "Assets\\TankDestroyer.cs",
+              "ToolTip": "D:\\UnityProjects\\Artilery\\Assets\\TankDestroyer.cs",
+              "RelativeToolTip": "Assets\\TankDestroyer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:05:33.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ArtileryAnimation.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Artilery\\ArtileryAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Artilery\\ArtileryAnimation.cs",
+              "ToolTip": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Artilery\\ArtileryAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Artilery\\ArtileryAnimation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:25:33.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FireEffects.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Artilery\\FireEffects.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Artilery\\FireEffects.cs",
+              "ToolTip": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Artilery\\FireEffects.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Artilery\\FireEffects.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:09:51.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProjectileMover.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Artilery\\ProjectileMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Artilery\\ProjectileMover.cs",
+              "ToolTip": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Artilery\\ProjectileMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Artilery\\ProjectileMover.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:52:17.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeviceData.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\DeviceData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeviceData.cs",
+              "ToolTip": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\DeviceData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeviceData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:16:42.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PC_ArtileryController.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Artilery\\PC_ArtileryController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Artilery\\PC_ArtileryController.cs",
+              "ToolTip": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Artilery\\PC_ArtileryController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Artilery\\PC_ArtileryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:11:50.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IArtileryControlable.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Artilery\\Interfaces\\IArtileryControlable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Artilery\\Interfaces\\IArtileryControlable.cs",
+              "ToolTip": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Artilery\\Interfaces\\IArtileryControlable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Artilery\\Interfaces\\IArtileryControlable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:10:18.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ArtileryRotation.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Artilery\\ArtileryRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Artilery\\ArtileryRotation.cs",
+              "ToolTip": "D:\\UnityProjects\\Artilery\\Assets\\Scripts\\Artilery\\ArtileryRotation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Artilery\\ArtileryRotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:00:32.966Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
